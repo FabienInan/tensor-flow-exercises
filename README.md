@@ -1,5 +1,9 @@
 # tensor-flow-exercises
 
-First exercice : house prices prediction by using linear regression
+- house prices prediction by using linear regression
 
-Second exercice : house prices prediction by using neural network
+- house prices prediction by using neural network
+
+- MNIST training with neural network and callback
+
+- Fashion MNIST with neural network
