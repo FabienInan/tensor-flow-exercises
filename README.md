@@ -7,3 +7,5 @@
 - MNIST training with neural network and callback
 
 - Fashion MNIST with neural network
+
+- Fashion MNIST with CNN
