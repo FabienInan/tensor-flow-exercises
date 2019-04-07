@@ -9,3 +9,5 @@
 - Fashion MNIST with neural network
 
 - Fashion MNIST with CNN
+
+- Convolution filters
