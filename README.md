@@ -11,3 +11,5 @@
 - Fashion MNIST with CNN
 
 - Convolution filters
+
+- MNIST with CNN
